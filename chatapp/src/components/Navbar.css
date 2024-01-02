@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    width: 100%;
+    height: 50px;
+
+}
+.LeftPortion , .RightPortion{
+    display: flex;
+}
+
+.NavImg{
+    border-radius: 50%;
+    height: 34px;
+}
+
+.imgpadding{
+    padding-left: 20px;
+}
+
+.NavHeading{
+    border-radius: 50%;
+    height: 30px;
+    padding: 0px 0 0 15px;
+}
+
+.NavPara{
+    padding-right: 20px;
+}
