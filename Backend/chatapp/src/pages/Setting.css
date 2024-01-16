@@ -1,0 +1,42 @@
+.setting{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.SettingHeading{
+    padding: 10px 0 40px 0;
+}
+
+.editProfile{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: grey;
+}
+
+.settingmenublock{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.settingmenu{
+    border: 0;
+    width: 200px;
+    height: 40px;
+    background-color:rgb(213, 210, 210) ;
+}
+
+#settingmenu1{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom: 1px solid black;
+}
+
+#settingmenu2{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: red;
+}

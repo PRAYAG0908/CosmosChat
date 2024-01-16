@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.HomeContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.HomeImage{
+    padding-top: 25px;
+    height: 370px;
+}
+
+.heading1{
+    padding-top: 25px;
+}
+
+.heading2{
+    padding-top: 35px;
+}
+
+.para{
+    padding-top: 20px;
+}
+
+.Buttonpadding{
+    padding: 30px 0 30px 0;
+}
+
+.HomeButton{
+    padding: 15px 95px 15px 95px;
+    border-radius: 50px;
+    border: 0;
+    background-color: rgba(105, 73, 255, 1);
+    color: #fff;
+}

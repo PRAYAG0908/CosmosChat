@@ -1,0 +1,35 @@
+.SignUppage{
+    height: 100vh;
+    background-color: rgba(105, 73, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innersignup{
+    height: 320px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    gap: 2rem;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #fff;
+}
+
+.Input{
+    font-size: larger;
+    border-radius: 20px;
+    border: 2px solid grey;
+    padding: 6px;
+}
+
+.bottomcontent{
+    text-align: center;
+    color: rgb(37, 37, 37);
+}
+
+.Bluecolor{
+    color: rgb(0, 187, 255);
+}
