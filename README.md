@@ -8,22 +8,11 @@ CosmoChat is a chat application built using React that allows users to communica
 
 ## Tech Stack
 
-React, Axios, Redux, CSS, React Router.
+React, CSS, React Router.
 
 
 ## Features
 
 - Chatbot Interaction
-- Session Management
-- Activity Dashboard
 - Responsive Design
-- Scalable Architecture
-- Delete Chat Histories
 - Integration with ChatGPT API
-
-
-## Contributing
-
-Contributions are always welcome!
-
-Please cross-check twice before merge request. 
